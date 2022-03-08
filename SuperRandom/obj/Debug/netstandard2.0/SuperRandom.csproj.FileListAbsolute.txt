@@ -1,0 +1,9 @@
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\bin\Debug\netstandard2.0\SuperRandom.deps.json
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\bin\Debug\netstandard2.0\SuperRandom.dll
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\bin\Debug\netstandard2.0\SuperRandom.pdb
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\obj\Debug\netstandard2.0\SuperRandom.csprojAssemblyReference.cache
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\obj\Debug\netstandard2.0\SuperRandom.csproj.CoreCompileInputs.cache
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\obj\Debug\netstandard2.0\SuperRandom.AssemblyInfoInputs.cache
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\obj\Debug\netstandard2.0\SuperRandom.AssemblyInfo.cs
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\obj\Debug\netstandard2.0\SuperRandom.dll
+C:\Users\47700247\source\repos\SuperRandom\SuperRandom\obj\Debug\netstandard2.0\SuperRandom.pdb
